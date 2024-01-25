@@ -1,0 +1,17 @@
+<!Doctype html> 
+<html>
+<head>
+    <title>
+        Basic Website
+    </title>
+</head>
+
+<body>
+<h1>Basic Website</h1>
+<p>
+This is a basic website.
+<a href="https://www.google.com">Visit Google!</a>
+<img src="https://realsound.jp/wp-content/uploads/2022/03/20220305-twentyfivetwentyone-05.jpg" width="104" height="142">
+</p>
+</body>
+</html>
